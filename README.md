@@ -12,4 +12,5 @@ GibHub is :
 DRAFT
 
 I am adding the report-2 file
-![](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.viridea.it%2Fconsigli%2Fi-fiori-dellestate-per-il-nostro-benessere%2F&ved=0CBYQjRxqFwoTCNjasNb6upMDFQAAAAAdAAAAABAH&opi=89978449)
+![](https://www.viridea.it/wp-content/uploads/2018/08/I-fiori-dellestate-per-il-nostro-benessere.jpg)
+
